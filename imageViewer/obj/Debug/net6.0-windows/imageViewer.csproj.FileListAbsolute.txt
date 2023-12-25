@@ -1,0 +1,16 @@
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.Form1.resources
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.csproj.GenerateResource.cache
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.GeneratedMSBuildEditorConfig.editorconfig
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.AssemblyInfoInputs.cache
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.AssemblyInfo.cs
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.csproj.CoreCompileInputs.cache
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\bin\Debug\net6.0-windows\imageViewer.exe
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\bin\Debug\net6.0-windows\imageViewer.deps.json
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\bin\Debug\net6.0-windows\imageViewer.runtimeconfig.json
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\bin\Debug\net6.0-windows\imageViewer.dll
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\bin\Debug\net6.0-windows\imageViewer.pdb
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.dll
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\refint\imageViewer.dll
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.pdb
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\imageViewer.genruntimeconfig.cache
+K:\1-Uni\5-semester\VP\C#\.vs\imageViewer\obj\Debug\net6.0-windows\ref\imageViewer.dll

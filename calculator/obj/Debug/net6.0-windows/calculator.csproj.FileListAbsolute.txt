@@ -1,0 +1,16 @@
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\bin\Debug\net6.0-windows\calculator.exe
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\bin\Debug\net6.0-windows\calculator.dll
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\bin\Debug\net6.0-windows\calculator.pdb
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.Form1.resources
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.dll
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.pdb
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+K:\1-Uni\5-semester\VP\C#\.vs\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
